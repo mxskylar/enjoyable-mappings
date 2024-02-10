@@ -1,8 +1,8 @@
 # OpenRCT2 (Roller Coaster Tycoon)
 
-My custom mappings for [OpenRCT2](https://openrct2.org/) use the following keyboard shortcuts under the hood.
+Controller mappings for [OpenRCT2](https://openrct2.org/) use the following keyboard shortcuts under the hood.
 Verify that you have the same shortcuts configured in the game by selecting
-`Disk and game options` > `Options` > `Controls and interface` > `Shortcut keys...`:
+`Disk and game options` > `Options` > `Controls and interface` > `Shortcut keys...`
 
 <img alt="OpenRCT2 options" src="../img/OpenRCT2_options.png" style="height: 250px; display: inline-block; margin-right: 10px;" />
 <img alt="OpenRCT2 controls and interface menu" src="../img/OpenRCT2_controls_and_interface.png" style="height: 250px; display: inline-block;" />
