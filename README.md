@@ -12,13 +12,13 @@ My custom mappings for [OpenRCT2](https://openrct2.org/) use the following keybo
 Verify that you have the same shortcuts configured in the game by selecting
 `Disk and game options` > `Options` > `Controls and interface` > `Shortcut keys...`:
 
-![OpenRCT2 options](img/OpenRCT2_options.png)
+<img alt="OpenRCT2 options" src="img/OpenRCT2_options.png" />
 
-![OpenRCT2 controls and interface menu](img/OpenRCT2_controls_and_interface.png)
+<img alt="OpenRCT2 controls and interface menu" src="img/OpenRCT2_controls_and_interface.png" />
 
 Then, verify that you have the following shortcuts configured:
 
-![OpenRCT2 keyboard shortcuts](img/OpenRCT2_keyboard_shortcuts.png)
+<img alt="OpenRCT2 keyboard shortcuts" src="img/OpenRCT2_keyboard_shortcuts.png" />
 
 Finally, import these Enjoyable profiles to setup the custom mappings described below:
 
