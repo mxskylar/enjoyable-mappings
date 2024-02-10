@@ -13,7 +13,6 @@ Verify that you have the same shortcuts configured in the game by selecting
 `Disk and game options` > `Options` > `Controls and interface` > `Shortcut keys...`:
 
 <img alt="OpenRCT2 options" src="img/OpenRCT2_options.png" />
-
 <img alt="OpenRCT2 controls and interface menu" src="img/OpenRCT2_controls_and_interface.png" />
 
 Then, verify that you have the following shortcuts configured:
