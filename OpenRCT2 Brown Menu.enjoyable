@@ -1,0 +1,33 @@
+{
+  "name" : "OpenRCT2 Brown Menu",
+  "entries" : {
+    "1118:736:1~Hat Switch 1~Left" : {
+      "type" : "key press",
+      "key" : 11
+    },
+    "1118:736:1~Hat Switch 1~Right" : {
+      "type" : "key press",
+      "key" : 120
+    },
+    "1118:736:1~Button 5" : {
+      "type" : "key press",
+      "key" : 118
+    },
+    "1118:736:1~Button 4" : {
+      "type" : "key press",
+      "key" : 99
+    },
+    "1118:736:1~Button 3" : {
+      "type" : "key press",
+      "key" : 96
+    },
+    "1118:736:1~Axis 5~Low" : {
+      "type" : "mapping",
+      "name" : "OpenRCT2"
+    },
+    "1118:736:1~Hat Switch 1~Up" : {
+      "type" : "key press",
+      "key" : 122
+    }
+  }
+}

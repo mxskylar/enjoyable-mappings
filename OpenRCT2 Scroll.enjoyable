@@ -1,0 +1,33 @@
+{
+  "name" : "OpenRCT2 Scroll",
+  "entries" : {
+    "1118:736:1~Hat Switch 1~Up" : {
+      "speed" : 1,
+      "type" : "mouse scroll",
+      "smooth" : false,
+      "direction" : 1
+    },
+    "1118:736:1~Button 11" : {
+      "type" : "mapping",
+      "name" : "OpenRCT2"
+    },
+    "1118:736:1~Hat Switch 1~Left" : {
+      "speed" : 1,
+      "type" : "mouse scroll",
+      "smooth" : false,
+      "direction" : 2
+    },
+    "1118:736:1~Hat Switch 1~Right" : {
+      "speed" : 1,
+      "type" : "mouse scroll",
+      "smooth" : false,
+      "direction" : -2
+    },
+    "1118:736:1~Hat Switch 1~Down" : {
+      "speed" : 1,
+      "type" : "mouse scroll",
+      "smooth" : false,
+      "direction" : -1
+    }
+  }
+}
