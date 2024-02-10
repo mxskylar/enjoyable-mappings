@@ -10,4 +10,4 @@ or use `⌘` + `O` in the Enjoyable UI.
 
 Feel free to download custom mappings for the following games:
 
-- [OpenRCT2](docs/OpenRCT2.md)
+- [OpenRCT2 \(Roller Coaster Tycoon\)](docs/OpenRCT2.md)
