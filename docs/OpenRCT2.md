@@ -17,8 +17,9 @@ You can do this by selecting `Disk and game options` > `Options` > `Controls and
 
 ## Mappings
 
-| Controller Input                                      | Computer Input                 | Action in Game      |
-|-------------------------------------------------------|--------------------------------|---------------------|
-| `Arrow Up`, `Arrow Down`, `Arrow Left`, `Arrow Right` | Move mouse slowly              | Move cursor slowly  |
-| `Left Joystick`                                       | Move mouse quickly             | Move cursor quickly |
-| `Right Joystick`                                      | Arrows up, down, left, & right | Navigate park       |
+| Controller Input | Computer Input                 | Action in Game      |
+|------------------|--------------------------------|---------------------|
+| Arrow Pad        | Move mouse slowly              | Move cursor slowly  |
+| Left Joystick    | Move mouse quickly             | Move cursor quickly |
+| Right Joystick   | Arrows up, down, left, & right | Navigate park       |
+| `L1`             | C                              | Open cheats menu    |
