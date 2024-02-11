@@ -1,0 +1,6 @@
+title: Enjoyable Mappings
+description: "Mappings for macOS games using Xinput controllers & Enjoyable."
+remote_theme: pages-themes/architect@v0.2.0 
+plugins:
+  - jekyll-remote-theme
+show_downloads: true

@@ -9,6 +9,10 @@
       "type" : "key press",
       "key" : 120
     },
+    "1118:736:1~Button 7" : {
+      "type" : "key press",
+      "key" : 6
+    },
     "1118:736:1~Button 5" : {
       "type" : "key press",
       "key" : 118
