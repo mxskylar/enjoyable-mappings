@@ -9,7 +9,7 @@ on an Xinput [controller](controllers.md):
 - [OpenRCT2 Scroll](https://github.com/mxskylar/enjoyable-mappings/blob/main/OpenRCT2%20Scroll.enjoyable)
 
 Then, verify that you have the right keyboard shortcuts configured in OpenRCT2.
-You should have every keyboard shortcut listed in the mappings table below.
+You should have every keyboard shortcut listed under `Computer Input` the mappings table below.
 You can do this by selecting `Disk and game options` > `Options` > `Controls and interface` > `Shortcut keys...`
 
 <img alt="OpenRCT2 options" src="../img/OpenRCT2_options.png" style="max-height: 250px; display: inline-block; margin-right: 10px;" />
