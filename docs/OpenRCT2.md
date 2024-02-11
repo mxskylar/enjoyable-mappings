@@ -18,6 +18,6 @@ Finally, import these Enjoyable profiles:
 - [OpenRCT2 Gray Menu](https://github.com/mxskylar/enjoyable-mappings/blob/main/OpenRCT2%20Gray%20Menu.enjoyable)
 - [OpenRCT2 Scroll](https://github.com/mxskylar/enjoyable-mappings/blob/main/OpenRCT2%20Scroll.enjoyable)
 
-These profiles will map [Xinput controllers]() like so:
+These profiles will map [Xinput controllers](controllers.md) like so:
 
 
