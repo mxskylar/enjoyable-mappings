@@ -1,3 +1,3 @@
 # Controllers
 
-Xinput controllers with the following keys are supported by the custom mappings.
+Xinput controllers with the following keys are supported.
