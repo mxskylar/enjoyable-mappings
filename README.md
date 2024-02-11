@@ -1,4 +1,5 @@
-Ever wanted to play games on macOS with a controller? 🎮 You can using [Enjoyable](https://yukkurigames.com/enjoyable/)!
+Ever wanted to play games on macOS with a controller? 🎮 You can using [Enjoyable](https://yukkurigames.com/enjoyable/)
+by [dragonfax](https://github.com/dragonfax/enjoyable). ✨
 
 If you enjoy the same games as me, you can download custom mappings for Xinput [controllers](controllers.md) below.
 The mappings are defined as Enjoyable profiles.
